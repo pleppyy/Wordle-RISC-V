@@ -1,0 +1,3 @@
+Each letter is 17x17px
+Dimensions of VGA monitor: 320x240px
+Colors are in 565RGB
